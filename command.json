@@ -1,0 +1,40 @@
+{
+  "commands": [
+    {
+      "id": 1,
+      "name": "cudgel",
+      "names": [
+        "cudgel",
+        "дубина"
+      ],
+      "commands": [
+        {
+          "id": 11,
+          "name": "empty trash",
+          "names": [
+            "очисти корзину",
+            "empty trash"
+          ],
+          "commands": []
+        },
+        {
+          "id": 12,
+          "name": "my computer",
+          "names": [
+            "my computer",
+            "мой компьютер"
+          ],
+          "commands": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "кокос",
+      "names": [
+        "кокос"
+      ],
+      "commands": []
+    }
+  ]
+}
